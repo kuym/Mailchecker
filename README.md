@@ -14,7 +14,9 @@ which is an unregulated cell (and therefore can be fatally over-discharged by th
 
 ## Board
 
-[Order one from OSHPark](http://oshpark.com/shared_projects/v8FFp8SI).
+[Order one from OSHPark](http://oshpark.com/shared_projects/IBBSjENY).
+
+Submit the EAGLE sources or [gerber zip (Mailchecker2.zip)](../master/production/Mailchecker2) to your PCB fabricator to order your own.
 
 ## Parts
 
