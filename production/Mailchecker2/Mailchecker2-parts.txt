@@ -1,0 +1,42 @@
+Partlist
+
+Exported from Mailchecker2.sch at 2014Jan30 12:10
+
+EAGLE Version 6.1.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                                Device                               Package                        Library  Sheet
+
+C1       4.7u                                 CAP-0805-MIN                         0805-MIN                       Outbreak 1
+C2       100n                                 CAP-0402-MIN                         0402-MIN                       Outbreak 1
+C3       100n                                 CAP-0402-MIN                         0402-MIN                       Outbreak 1
+C4       100n                                 CAP-0402-MIN                         0402-MIN                       Outbreak 1
+C5       100n                                 CAP-0402-MIN                         0402-MIN                       Outbreak 1
+C6       10p                                  CAP-0402-MIN                         0402-MIN                       Outbreak 1
+C7       1u                                   CAP-0603-MIN                         0603-MIN                       Outbreak 1
+C8       1u                                   CAP-0603-MIN                         0603-MIN                       Outbreak 1
+D1       white                                LED-0603-MIN                         0603-DIODE-MIN                 Outbreak 1
+D2       photodiode                           LED-0603-MIN                         0603-DIODE-MIN                 Outbreak 1
+D3       red                                  LED-0603-MIN                         0603-DIODE-MIN                 Outbreak 1
+D4       green                                LED-0603-MIN                         0603-DIODE-MIN                 Outbreak 1
+D5       photodiode                           LED-0603-MIN                         0603-DIODE-MIN                 Outbreak 1
+D6       green                                LED-0603-MIN                         0603-DIODE-MIN                 Outbreak 1
+FB1                                           FERRITE-BEAD-0603-MIN                0603-MIN                       Outbreak 1
+FB2                                           FERRITE-BEAD-0603-MIN                0603-MIN                       Outbreak 1
+FB3                                           FERRITE-BEAD-0603-MIN                0603-MIN                       Outbreak 1
+IC1      LDO-REGULATOR-FIXED-ZETEX-ZLDO       LDO-REGULATOR-FIXED-ZETEX-ZLDO       SM8-ZETEX                      Outbreak 1
+IC2      ACCELEROMETER-FREESCALE-MMA7660      ACCELEROMETER-FREESCALE-MMA7660      QFN10-3X3MM-FREESCALE-MMA7660  Outbreak 1
+IC3      PMIC-LI-ION-CHARGER-MCP73831-SOT23-5 PMIC-LI-ION-CHARGER-MCP73831-SOT23-5 SOT23-5                        Outbreak 1
+K3       USB-5-PIN-MICROB-FCI-10118193-NARROW USB-5-PIN-MICROB-FCI-10118193-NARROW USB-MICROB-FCI-10118193-NARROW Outbreak 1
+M1       WIFI-MODULE-ELECTRIC-IMP-002-MIN     WIFI-MODULE-ELECTRIC-IMP-002-MIN     ELECTRIC-IMP-002-MIN           Outbreak 1
+R1       100k                                 RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R2       1.5k                                 RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R3       1.5k                                 RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R4       2k                                   RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R5       100                                  RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R6       100k                                 RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R7       220                                  RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R8       100                                  RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R9       100k                                 RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
+R10      100                                  RESISTOR-0402-MIN                    0402-MIN                       Outbreak 1
