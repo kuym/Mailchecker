@@ -5,6 +5,10 @@ This Electric Imp-powered device detects motion and reports it to you over the w
 to notify you over WiFi when mail is delivered.  It could also be used to monitor doors (including garage or pet doors), valuables that you
 don't want moved or cookie jars you want to keep children out of.
 
+![Poster](../master/production/Mailchecker2/poster.jpg?raw=true)
+
+## Features
+
 The board features an accelerometer, light sensor and Lithium-ion/polymer battery recharging built in.  It achieves approximately one month
 of use between charges per 100mAh of battery capacity, assuming two motion activations per day.
 
